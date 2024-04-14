@@ -77,4 +77,8 @@ def training_function():
 
     print("metric:", metric.compute())
 
-training_function()
+# training_function()
+
+
+from accelerate import notebook_launcher
+notebook_launcher(training_function)
