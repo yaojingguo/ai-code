@@ -1,1 +1,8 @@
 /test-trainer
+.ipynb_checkpoints
+*.jsonl
+*.tsv
+*.json
+*.zip
+*.gz
+*.arrow
