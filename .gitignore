@@ -6,5 +6,4 @@
 *.zip
 *.gz
 *.pyc
-*.csv
 *.arrow
