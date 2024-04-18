@@ -7,3 +7,4 @@
 *.gz
 *.pyc
 *.arrow
+__pycache__
