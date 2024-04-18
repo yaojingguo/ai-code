@@ -1,0 +1,17 @@
+model_list: 
+  - model_name: vllm-model
+    litellm_params:
+      model: openai/Mixtral-8x7B-Instruct-v0.1
+      # custom_llm_provider: openai
+      api_key: EMPTY
+      api_base: http://ali-ai:8000/v1 # e.g. http://0.0.0.0:3000
+  # - model_name: gpt-3.5-turbo # user-facing model alias
+  #   litellm_params: # all params accepted by litellm.completion() - https://docs.litellm.ai/docs/completion/input
+  #     model: azure/<your-deployment-name>
+  #     api_base: <your-azure-api-endpoint>
+  #     api_key: <your-azure-api-key>
+  # - model_name: gpt-3.5-turbo
+  #   litellm_params:
+  #     model: azure/gpt-turbo-small-ca
+  #     api_base: https://my-endpoint-canada-berri992.openai.azure.com/
+  #     api_key: <your-azure-api-key>

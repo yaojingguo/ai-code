@@ -1,0 +1,286 @@
+Use the below articles on the 2022 Winter Olympics to answer the subsequent question. If the answer cannot be found in the articles, write "I could not find an answer."
+
+Wikipedia article section:
+"""
+List of 2022 Winter Olympics medal winners
+
+==Curling==
+
+{{main|Curling at the 2022 Winter Olympics}}
+{|{{MedalistTable|type=Event|columns=1|width=225|labelwidth=200}}
+|-valign="top"
+|Men<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Men's tournament}}
+|{{flagIOC|SWE|2022 Winter}}<br/>[[Niklas Edin]]<br/>[[Oskar Eriksson]]<br/>[[Rasmus Wranå]]<br/>[[Christoffer Sundgren]]<br/>[[Daniel Magnusson (curler)|Daniel Magnusson]]
+|{{flagIOC|GBR|2022 Winter}}<br/>[[Bruce Mouat]]<br/>[[Grant Hardie]]<br/>[[Bobby Lammie]]<br/>[[Hammy McMillan Jr.]]<br/>[[Ross Whyte]]
+|{{flagIOC|CAN|2022 Winter}}<br/>[[Brad Gushue]]<br/>[[Mark Nichols (curler)|Mark Nichols]]<br/>[[Brett Gallant]]<br/>[[Geoff Walker (curler)|Geoff Walker]]<br/>[[Marc Kennedy]]
+|-valign="top"
+|Women<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Women's tournament}}
+|{{flagIOC|GBR|2022 Winter}}<br/>[[Eve Muirhead]]<br/>[[Vicky Wright]]<br/>[[Jennifer Dodds]]<br/>[[Hailey Duff]]<br/>[[Mili Smith]]
+|{{flagIOC|JPN|2022 Winter}}<br/>[[Satsuki Fujisawa]]<br/>[[Chinami Yoshida]]<br/>[[Yumi Suzuki]]<br/>[[Yurika Yoshida]]<br/>[[Kotomi Ishizaki]]
+|{{flagIOC|SWE|2022 Winter}}<br/>[[Anna Hasselborg]]<br/>[[Sara McManus]]<br/>[[Agnes Knochenhauer]]<br/>[[Sofia Mabergs]]<br/>[[Johanna Heldin]]
+|-valign="top"
+|Mixed doubles<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Mixed doubles tournament}}
+|{{flagIOC|ITA|2022 Winter}}<br/>[[Stefania Constantini]]<br/>[[Amos Mosaner]]
+|{{flagIOC|NOR|2022 Winter}}<br/>[[Kristin Skaslien]]<br/>[[Magnus Nedregotten]]
+|{{flagIOC|SWE|2022 Winter}}<br/>[[Almida de Val]]<br/>[[Oskar Eriksson]]
+|}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Results summary==
+
+===Women's tournament===
+
+====Playoffs====
+
+=====Gold medal game=====
+
+''Sunday, 20 February, 9:05''
+{{#lst:Curling at the 2022 Winter Olympics – Women's tournament|GM}}
+{{Player percentages
+| team1 = {{flagIOC|JPN|2022 Winter}}
+| [[Yurika Yoshida]] | 97%
+| [[Yumi Suzuki]] | 82%
+| [[Chinami Yoshida]] | 64%
+| [[Satsuki Fujisawa]] | 69%
+| teampct1 = 78%
+| team2 = {{flagIOC|GBR|2022 Winter}}
+| [[Hailey Duff]] | 90%
+| [[Jennifer Dodds]] | 89%
+| [[Vicky Wright]] | 89%
+| [[Eve Muirhead]] | 88%
+| teampct2 = 89%
+}}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Medal summary==
+
+===Medal table===
+
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 2022 Winter
+ | team           = 
+ | gold_CAN = 0 | silver_CAN = 0 | bronze_CAN = 1
+ | gold_ITA = 1 | silver_ITA = 0 | bronze_ITA = 0
+ | gold_NOR = 0 | silver_NOR = 1 | bronze_NOR = 0
+ | gold_SWE = 1 | silver_SWE = 0 | bronze_SWE = 2
+ | gold_GBR = 1 | silver_GBR = 1 | bronze_GBR = 0
+ | gold_JPN = 0 | silver_JPN = 1 | bronze_JPN - 0
+}}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Results summary==
+
+===Men's tournament===
+
+====Playoffs====
+
+=====Gold medal game=====
+
+''Saturday, 19 February, 14:50''
+{{#lst:Curling at the 2022 Winter Olympics – Men's tournament|GM}}
+{{Player percentages
+| team1 = {{flagIOC|GBR|2022 Winter}}
+| [[Hammy McMillan Jr.]] | 95%
+| [[Bobby Lammie]] | 80%
+| [[Grant Hardie]] | 94%
+| [[Bruce Mouat]] | 89%
+| teampct1 = 90%
+| team2 = {{flagIOC|SWE|2022 Winter}}
+| [[Christoffer Sundgren]] | 99%
+| [[Rasmus Wranå]] | 95%
+| [[Oskar Eriksson]] | 93%
+| [[Niklas Edin]] | 87%
+| teampct2 = 94%
+}}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Medal summary==
+
+===Medalists===
+
+{| {{MedalistTable|type=Event|columns=1}}
+|-
+|Men<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Men's tournament}}
+|{{flagIOC|SWE|2022 Winter}}<br>[[Niklas Edin]]<br>[[Oskar Eriksson]]<br>[[Rasmus Wranå]]<br>[[Christoffer Sundgren]]<br>[[Daniel Magnusson (curler)|Daniel Magnusson]]
+|{{flagIOC|GBR|2022 Winter}}<br>[[Bruce Mouat]]<br>[[Grant Hardie]]<br>[[Bobby Lammie]]<br>[[Hammy McMillan Jr.]]<br>[[Ross Whyte]]
+|{{flagIOC|CAN|2022 Winter}}<br>[[Brad Gushue]]<br>[[Mark Nichols (curler)|Mark Nichols]]<br>[[Brett Gallant]]<br>[[Geoff Walker (curler)|Geoff Walker]]<br>[[Marc Kennedy]]
+|-
+|Women<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Women's tournament}}
+|{{flagIOC|GBR|2022 Winter}}<br>[[Eve Muirhead]]<br>[[Vicky Wright]]<br>[[Jennifer Dodds]]<br>[[Hailey Duff]]<br>[[Mili Smith]]
+|{{flagIOC|JPN|2022 Winter}}<br>[[Satsuki Fujisawa]]<br>[[Chinami Yoshida]]<br>[[Yumi Suzuki]]<br>[[Yurika Yoshida]]<br>[[Kotomi Ishizaki]]
+|{{flagIOC|SWE|2022 Winter}}<br>[[Anna Hasselborg]]<br>[[Sara McManus]]<br>[[Agnes Knochenhauer]]<br>[[Sofia Mabergs]]<br>[[Johanna Heldin]]
+|-
+|Mixed doubles<br/>{{DetailsLink|Curling at the 2022 Winter Olympics – Mixed doubles tournament}}
+|{{flagIOC|ITA|2022 Winter}}<br>[[Stefania Constantini]]<br>[[Amos Mosaner]]
+|{{flagIOC|NOR|2022 Winter}}<br>[[Kristin Skaslien]]<br>[[Magnus Nedregotten]]
+|{{flagIOC|SWE|2022 Winter}}<br>[[Almida de Val]]<br>[[Oskar Eriksson]]
+|}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Results summary==
+
+===Men's tournament===
+
+====Playoffs====
+
+=====Bronze medal game=====
+
+''Friday, 18 February, 14:05''
+{{#lst:Curling at the 2022 Winter Olympics – Men's tournament|BM}}
+{{Player percentages
+| team1 = {{flagIOC|USA|2022 Winter}}
+| [[John Landsteiner]] | 80%
+| [[Matt Hamilton (curler)|Matt Hamilton]] | 86%
+| [[Chris Plys]] | 74%
+| [[John Shuster]] | 69%
+| teampct1 = 77%
+| team2 = {{flagIOC|CAN|2022 Winter}}
+| [[Geoff Walker (curler)|Geoff Walker]] | 84%
+| [[Brett Gallant]] | 86%
+| [[Mark Nichols (curler)|Mark Nichols]] | 78%
+| [[Brad Gushue]] | 78%
+| teampct2 = 82%
+}}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Teams==
+
+===Mixed doubles===
+
+{| class=wikitable
+|-
+!width=200|{{flagIOC|AUS|2022 Winter}}
+!width=200|{{flagIOC|CAN|2022 Winter}}
+!width=200|{{flagIOC|CHN|2022 Winter}}
+!width=200|{{flagIOC|CZE|2022 Winter}}
+!width=200|{{flagIOC|GBR|2022 Winter}}
+|-
+|
+'''Female:''' [[Tahli Gill]]<br>
+'''Male:''' [[Dean Hewitt]]
+|
+'''Female:''' [[Rachel Homan]]<br>
+'''Male:''' [[John Morris (curler)|John Morris]]
+|
+'''Female:''' [[Fan Suyuan]]<br>
+'''Male:''' [[Ling Zhi]]
+|
+'''Female:''' [[Zuzana Paulová]]<br>
+'''Male:''' [[Tomáš Paul]]
+|
+'''Female:''' [[Jennifer Dodds]]<br>
+'''Male:''' [[Bruce Mouat]]
+|-
+!width=200|{{flagIOC|ITA|2022 Winter}}
+!width=200|{{flagIOC|NOR|2022 Winter}}
+!width=200|{{flagIOC|SWE|2022 Winter}}
+!width=200|{{flagIOC|SUI|2022 Winter}}
+!width=200|{{flagIOC|USA|2022 Winter}}
+|-
+|
+'''Female:''' [[Stefania Constantini]]<br>
+'''Male:''' [[Amos Mosaner]]
+|
+'''Female:''' [[Kristin Skaslien]]<br>
+'''Male:''' [[Magnus Nedregotten]]
+|
+'''Female:''' [[Almida de Val]]<br>
+'''Male:''' [[Oskar Eriksson]]
+|
+'''Female:''' [[Jenny Perret]]<br>
+'''Male:''' [[Martin Rios]]
+|
+'''Female:''' [[Vicky Persinger]]<br>
+'''Male:''' [[Chris Plys]]
+|}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Results summary==
+
+===Women's tournament===
+
+====Playoffs====
+
+=====Bronze medal game=====
+
+''Saturday, 19 February, 20:05''
+{{#lst:Curling at the 2022 Winter Olympics – Women's tournament|BM}}
+{{Player percentages
+| team1 = {{flagIOC|SUI|2022 Winter}}
+| [[Melanie Barbezat]] | 79%
+| [[Esther Neuenschwander]] | 75%
+| [[Silvana Tirinzoni]] | 81%
+| [[Alina Pätz]] | 64%
+| teampct1 = 75%
+| team2 = {{flagIOC|SWE|2022 Winter}}
+| [[Sofia Mabergs]] | 89%
+| [[Agnes Knochenhauer]] | 80%
+| [[Sara McManus]] | 81%
+| [[Anna Hasselborg]] | 76%
+| teampct2 = 82%
+}}
+"""
+
+Wikipedia article section:
+"""
+Curling at the 2022 Winter Olympics
+
+==Results summary==
+
+===Mixed doubles tournament===
+
+====Playoffs====
+
+=====Gold medal game=====
+
+''Tuesday, 8 February, 20:05''
+{{#lst:Curling at the 2022 Winter Olympics – Mixed doubles tournament|GM}}
+{| class="wikitable"
+!colspan=4 width=400|Player percentages
+|-
+!colspan=2 width=200 style="white-space:nowrap;"| {{flagIOC|ITA|2022 Winter}}
+!colspan=2 width=200 style="white-space:nowrap;"| {{flagIOC|NOR|2022 Winter}}
+|-
+| [[Stefania Constantini]] || 83%
+| [[Kristin Skaslien]] || 70%
+|-
+| [[Amos Mosaner]] || 90%
+| [[Magnus Nedregotten]] || 69%
+|-
+| '''Total''' || 87%
+| '''Total''' || 69%
+|}
+"""
+
+Question: Which athletes won the gold medal in curling at the 2022 Winter Olympics?
