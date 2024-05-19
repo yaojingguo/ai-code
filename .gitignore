@@ -8,3 +8,10 @@
 *.pyc
 *.arrow
 __pycache__
+/chapter-7/bert-finetuned-ner-accelerate
+/chapter-7/distilbert-base-uncased-finetuned-imdb
+/chapter-7/mt5-small-finetuned-amazon-en-es
+/chapter-7/marian-finetuned-kde4-en-to-fr
+/chapter-7/bert-finetuned-ner
+/chapter-7/bert-finetuned-squad
+/chapter-7/data
