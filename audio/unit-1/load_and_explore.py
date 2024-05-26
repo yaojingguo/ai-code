@@ -11,9 +11,9 @@ minds = minds.remove_columns(columns_to_remove)
 
 import gradio as gr
 
-
 def generate_audio():
-    example = minds.shuffle()[0]
+    # example = minds.shuffle()[0]
+    example = minds[0]
     audio = example["audio"]
     return (
         audio["sampling_rate"],
