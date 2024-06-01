@@ -38,4 +38,4 @@ with demo:
         ["Transcribe Microphone", "Transcribe Audio File"],
     )
 
-demo.launch(debug=True, server_port="172.20.197.2")
+demo.launch(debug=True, server_name="172.20.197.2")
