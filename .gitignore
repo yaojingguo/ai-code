@@ -16,3 +16,4 @@ __pycache__
 /chapter-7/bert-finetuned-squad
 /chapter-7/data
 /audio/distilhubert-finetuned-gtzan
+/audio/unit-5/whisper-small-dv/
